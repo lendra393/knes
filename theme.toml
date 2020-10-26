@@ -1,0 +1,5 @@
+baseurl = "http://netlify.app"
+languageCode = "en-us"
+title = "My Awesome Blog"
+[params]
+  author = "Sahronay"
